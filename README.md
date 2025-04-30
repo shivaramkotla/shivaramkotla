@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivaram Kotla</h1>
-<p align="center">Feeling excited to connect with professionals someone like you</p>
+<h2 align="center">Feeling excited to connect with professionals someone like you</h2>
 
 - 🔭 I’m currently working on **my personal portfolio**
 - 🌱 I’m currently learning **React, Spring Boot, PostgreSQL**
