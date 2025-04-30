@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivaram+Kotla;Java+%7C+DSA+%7C+Web+Dev+Enthusiast;All+my+projects+are+on+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivaram+Kotla;Java+%7C+DSA+%7C+Web+Dev+Enthusiast;All+my+projects+are+on+GitHub!" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shivaram Kotla</h1>
 <p align="center">Feeling excited to connect with professionals someone like you</p>
